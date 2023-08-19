@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/Aarushi-Chaudhary/Aarushi-Chaudhary/blob/main/Banner%20Photo.gif)
+![MasterHead](https://github.com/Aarushi-Chaudhary/Aarushi-Chaudhary/blob/main/Banner%20Photo.gif) 
+
+[![](https://visitcount.itsvg.in/api?id=a&icon=6&color=6)](https://visitcount.itsvg.in) 
 
 <h1 align="center"> Greetings! I'm Aarushi!🙏🏼 </h1>
 
@@ -40,4 +42,3 @@
 - **VCM and SCM**: Git, Github, Bitbucket
 
 Many more technologies are going to be on this list soon.
-
